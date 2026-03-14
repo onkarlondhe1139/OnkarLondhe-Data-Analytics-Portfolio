@@ -49,6 +49,8 @@ https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard
 
 ## 📬 Contact
 
+If you would like to collaborate on data analytics or BI projects, feel free to reach out.
+
 📧 **Email:** [onkarlondhe1139@gmail.com](mailto:onkarlondhe1139@gmail.com)
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/onkarlondhe1139/
