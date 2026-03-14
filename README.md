@@ -10,7 +10,7 @@ Here you will find projects related to:
 • SQL & Python Analysis  
 
 Tools Used:
-Excel | Power BI | SQL | Python | Pandas | Matplotlib
+Excel | Power BI | SQL | Python 
 
 ## 🚀 Skills
 
@@ -36,6 +36,16 @@ Power BI | Excel | SQL | Python
 
 4️⃣ Data Storytelling & Hypothesis Testing  
 🔗 https://github.com/onkarlondhe1139/OnkarLondhe-Task4-Hypothesis-Testing
+
+## 📊 Dashboard Previews
+
+### Swiggy Instamart Sales Dashboard
+
+![Swiggy Dashboard](https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard/blob/main/Task3Output.png)
+
+🔗 Project Link:
+https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard
+
 
 ## 📬 Contact
 
