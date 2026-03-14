@@ -58,7 +58,8 @@ This portfolio showcases my hands-on projects completed during my **Data Analyti
 Objective:
 Prepare raw dataset for analysis by improving data quality and structure.
 
-Key Insights
+# Key Insights
+
 • Removed duplicate records to ensure accurate analysis.
 
 • Handled missing values to maintain dataset consistency.
@@ -82,7 +83,8 @@ https://github.com/onkarlondhe1139/OnkarLondhe-Task1-DataWrangling
 Objective:
 Analyze dataset patterns to understand relationships between product price, demand, and sales performance.
 
-Key Insights
+# Key Insights
+
 • Certain price ranges drive higher product sales.
 
 • A few product categories contribute to majority of total sales.
@@ -106,7 +108,8 @@ https://github.com/onkarlondhe1139/OnkarLondhe-Task-2-EDA-BI
 Objective:
 Build an interactive Power BI dashboard to visualize sales performance and product demand.
 
-Key Insights
+# Key Insights
+
 • Total Sales: $1.20M generated across all outlets.
 
 • Average Sales per Item: $141.
@@ -132,7 +135,8 @@ https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard
 Objective:
 Validate analytical findings using statistical methods and communicate insights through data storytelling.
 
-Key Insights
+# Key Insights
+
 • Price vs Sales: Correlation analysis shows pricing influences product demand.
 
 • Discount vs Sales: T-test indicates discounts significantly improve sales volume.
