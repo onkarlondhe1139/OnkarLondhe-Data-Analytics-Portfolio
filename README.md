@@ -1,4 +1,4 @@
-# 👨‍💻 Onkar Londhe – Data Analytics Portfolio
+# Onkar Londhe – Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio.  
 ## 👨‍💻 About Me
