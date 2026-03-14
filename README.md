@@ -39,6 +39,13 @@ Power BI | Excel | SQL | Python
 
 ## 📊 Dashboard Previews
 
+### Myntra Sales Dashboard
+
+![Myntra Dashboard](https://github.com/onkarlondhe1139/OnkarLondhe-Task-2-EDA-BI/blob/main/Dashboard.png)
+
+🔗 Project Link:
+https://github.com/onkarlondhe1139/OnkarLondhe-Task-2-EDA-BI
+
 ### Swiggy Instamart Sales Dashboard
 
 ![Swiggy Dashboard](https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard/blob/main/Task3Output.png)
