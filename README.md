@@ -36,7 +36,7 @@ This portfolio showcases my hands-on projects completed during my **Data Analyti
 • Power BI
 • Microsoft Excel
 
-📂 Data Analytics Internship Projects – ApexPlanet Software
+##📂 Data Analytics Internship Projects – ApexPlanet Software
 1️⃣ Data Collection & Data Cleaning
 
 Objective:
