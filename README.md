@@ -51,7 +51,7 @@ https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard
 
 📧 **Email:** [onkarlondhe1139@gmail.com](mailto:onkarlondhe1139@gmail.com)
 
-🔗 **LinkedIn:** https://linkedin.com/in/your-linkedin
+🔗 **LinkedIn:** https://www.linkedin.com/in/onkarlondhe1139/
 
 💻 **GitHub:** https://github.com/onkarlondhe1139
 
