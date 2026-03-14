@@ -38,7 +38,7 @@ This portfolio showcases my hands-on projects completed during my **Data Analyti
 
 ## 📂 Data Analytics Internship Projects – ApexPlanet Software
 ---
-1️⃣ Data Collection & Data Cleaning
+# 1️⃣ Data Collection & Data Cleaning
 
 Objective:
 Prepare raw dataset for analysis by improving data quality and structure.
@@ -50,13 +50,13 @@ Key Insights
 • Detected and removed outliers using the IQR method.
 • Generated a clean and analysis-ready dataset for further analytics.
 
-Tools Used
+Tools Used : 
 Excel | Python | Data Wrangling Techniques
 
 🔗 Project Link
 https://github.com/onkarlondhe1139/OnkarLondhe-Task1-DataWrangling
 ---
-2️⃣ Exploratory Data Analysis (EDA)
+# 2️⃣ Exploratory Data Analysis (EDA)
 
 Objective:
 Analyze dataset patterns to understand relationships between product price, demand, and sales performance.
@@ -68,13 +68,13 @@ Key Insights
 • High-demand items were identified for inventory optimization.
 • EDA helped uncover hidden patterns useful for business decisions.
 
-Tools Used
+Tools Used : 
 Python | Pandas | Matplotlib | Excel
 
 🔗 Project Link
 https://github.com/onkarlondhe1139/OnkarLondhe-Task-2-EDA-BI
 ---
-3️⃣ Swiggy Instamart Sales Dashboard (Power BI)
+# 3️⃣ Swiggy Instamart Sales Dashboard (Power BI)
 
 Objective:
 Build an interactive Power BI dashboard to visualize sales performance and product demand.
@@ -87,13 +87,13 @@ Key Insights
 • Fruits, Snacks, and Household products dominate product demand.
 • Mid-range priced items perform better compared to high-priced items.
 
-Tools Used
+Tools Used : 
 Power BI | Data Visualization | Business Intelligence
 
 🔗 Project Link
 https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard
 ---
-4️⃣ Data Storytelling & Hypothesis Testing
+# 4️⃣ Data Storytelling & Hypothesis Testing
 
 Objective:
 Validate analytical findings using statistical methods and communicate insights through data storytelling.
@@ -105,7 +105,7 @@ Key Insights
 • Statistical validation increases confidence in analytical insights.
 • Data storytelling converts complex analysis into clear business recommendations.
 
-Tools Used
+Tools Used : 
 Statistical Analysis | Hypothesis Testing | Data Storytelling
 
 🔗 Project Link
@@ -126,8 +126,14 @@ https://github.com/onkarlondhe1139/OnkarLondhe-Task-2-EDA-BI
 
 🔗 Project Link:
 https://github.com/onkarlondhe1139/OnkarLondhe-Task3-PowerBI-Dashboard
+---
+## 🎯 Currently Learning
 
-
+• Advanced Power BI  
+• Python for Data Analysis  
+• Machine Learning Basics  
+• SQL Optimization
+---
 ## 📬 Contact
 
 If you would like to collaborate on data analytics or BI projects, feel free to reach out.
